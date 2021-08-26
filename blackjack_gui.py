@@ -213,6 +213,3 @@ frame.set_draw_handler(draw)
 
 deal()
 frame.start()
-
-
-# remember to review the gradic rubric
